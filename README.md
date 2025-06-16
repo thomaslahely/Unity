@@ -35,13 +35,7 @@ N’hésite pas à explorer mes repositories et à me contacter pour toute oppor
 - Contrôle d’axes via `Input.GetAxis` pour plus de finesse.
 - Composants principaux : `ChariotCommande`, `FlecheCommande`, `RotationCommande`, `TranslationCommande`.
 
----
 
-## 📸 Aperçu
-
-> (Ajoute ici éventuellement des captures d’écran ou GIFs si tu veux illustrer les TPs.)
-
----
 
 ## 🚀 Pour lancer un TP
 
