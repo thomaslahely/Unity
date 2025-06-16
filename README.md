@@ -6,8 +6,8 @@ N’hésite pas à explorer mes repositories et à me contacter pour toute oppor
 
 ## 📁 Sommaire des TPs
 
-| TP | Description | Dossier |
-|----|-------------|---------|
+| TP | Description |
+|----|-------------|
 | **TP1** | Contrôle d’un personnage avec déplacement, sprint, saut, et poursuite par un ennemi. 
 | **TP2** | Simulation d’une grue avec gestion du pivot, du chariot, du moufle, de la caméra, et détection d'objets. 
 | **TP3** | Commande avancée d’une grue articulée à l’aide d’axes personnalisés et états d’articulation. 
